@@ -2,6 +2,8 @@ import React from "react";
 import reviews from "./data";
 import Testimonials from "./components/Testimonials";
 
+//Ashish Vishwakarma
+//Github: aksharma2799
 const App = () => {
   return (
     <div className="flex flex-col w-[100vw] h-[100vh] justify-center items-center bg-gray-200">
